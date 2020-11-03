@@ -1,0 +1,11 @@
+- Em uma grid, é possível ter qualquer número de linhas e qualquer número de colunas. 
+- grid container: onde o grid é definido.
+- grid item ou célula de grid: cada quadradinho de uma grid.
+- grid track: row track (linhas) e column track (colunas): o espaço entre duas das linhas ou colunas em seu todo (digo uma linha inteira ou uma coluna inteira entre outras duas).
+- grid lines: linhas entre as grids, podem ser verticais ou horizontais. Cada uma delas tem sua própria numeração.
+- grid area: quando se pega mais de uma célula de grid (exemplo: pegar 4 células de grid para fazer uma área grande).
+- grid gap: espaçamento entre as células.
+- é possível haver aninhamento de grids, ou seja, uma grid dentro de outra grid.
+
+ATENÇÃO!
+O editor usado neste curso é o codepen.io e nos exemplos dados no curso, foi usado o pré-processador Sass
