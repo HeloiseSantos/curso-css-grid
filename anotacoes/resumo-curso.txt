@@ -6,3 +6,7 @@
 - grid area: quando se pega mais de uma célula de grid (exemplo: pegar 4 células de grid para fazer uma área grande).
 - grid gap: espaçamento entre as células.
 - é possível haver aninhamento de grids, ou seja, uma grid dentro de outra grid.
+
+Links de anotações no codepen.io:
+https://codepen.io/HeloiseSantos/pen/vYKrrbL - Primeira grid + algumas propriedades
+https://codepen.io/HeloiseSantos/pen/GRqBjMY - Ocupando espaços
