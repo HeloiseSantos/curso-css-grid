@@ -10,3 +10,6 @@
 Links de anotações no codepen.io:
 https://codepen.io/HeloiseSantos/pen/vYKrrbL - Primeira grid + algumas propriedades
 https://codepen.io/HeloiseSantos/pen/GRqBjMY - Ocupando espaços
+https://codepen.io/HeloiseSantos/pen/zYBLVyO - Sobreposição
+https://codepen.io/HeloiseSantos/pen/RwRBzzZ - Áreas de grid, auto-fill e auto-fit
+https://codepen.io/HeloiseSantos/pen/jOrpgBo - Nomes de linha
