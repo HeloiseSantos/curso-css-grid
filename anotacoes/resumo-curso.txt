@@ -13,3 +13,6 @@ https://codepen.io/HeloiseSantos/pen/GRqBjMY - Ocupando espaços
 https://codepen.io/HeloiseSantos/pen/zYBLVyO - Sobreposição
 https://codepen.io/HeloiseSantos/pen/RwRBzzZ - Áreas de grid, auto-fill e auto-fit
 https://codepen.io/HeloiseSantos/pen/jOrpgBo - Nomes de linha
+https://codepen.io/HeloiseSantos/pen/ZEOqjWv - Prática 01
+https://codepen.io/HeloiseSantos/pen/vYKVamB - Prática 02
+https://codepen.io/HeloiseSantos/pen/ZEOqjoR - Prática 03
